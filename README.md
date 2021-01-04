@@ -1,4 +1,4 @@
-# clean-code-javascript
+# clean-code-Python
 
 ## Table of Contents
 
@@ -17,12 +17,14 @@
 
 ## Introduction
 
+**Important. This is the original version (JavaScript) "translated" to Python with some extra explaining that I considered neccesary. All credit of the original guide goes to the [OP](https://github.com/ryanmcdermott/clean-code-javascript) and the author of Clean Code.**
+
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
 
 Software engineering principles, from Robert C. Martin's book
 [_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
-adapted for JavaScript. This is not a style guide. It's a guide to producing
+adapted for Python. This is not a style guide. It's a guide to producing
 [readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) software in JavaScript.
 
 Not every principle herein has to be strictly followed, and even fewer will be
